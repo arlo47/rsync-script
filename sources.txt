@@ -1,0 +1,4 @@
+/mnt/355eeb21-8e05-48a6-86e5-8721ec1b36b7/greg/Videos
+/mnt/DEV1-2TB/Videos-DEV1
+/media/greg/DEV2-1.5TB/Videos-DEV2
+/media/greg/DEV3-4TB/Videos-DEV3
